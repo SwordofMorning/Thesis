@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\96921\Documents\WorkSpace\Thesis\multi\CUDA-MPI-pthreads-FFT\src\complex.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\96921\Documents\WorkSpace\Thesis\multi\CUDA-MPI-pthreads-FFT\pthreads\main.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\96921\Documents\WorkSpace\Thesis\multi\CUDA-MPI-pthreads-FFT\src\complex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\96921\Documents\WorkSpace\Thesis\multi\CUDA-MPI-pthreads-FFT\pthreads\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{CA997CF2-E5A4-3EFE-A01F-1D62B35A6753}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{38E18337-6BA3-3E77-B881-08577B2E6A27}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\96921\Documents\WorkSpace\Thesis\multi\CUDA-MPI-pthreads-FFT\build\CMakeFiles\77fb155c0406ed7bd2fefe459cba780b\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1DC72D0B-6399-38DE-9215-3770FDFEA825}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
