@@ -1,6 +1,0 @@
-C:/Users/96921/Documents/WorkSpace/Thesis/multi/CUDA-MPI-pthreads-FFT/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/96921/Documents/WorkSpace/Thesis/multi/CUDA-MPI-pthreads-FFT/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/96921/Documents/WorkSpace/Thesis/multi/CUDA-MPI-pthreads-FFT/build/pthreads/CMakeFiles/p31.dir
-C:/Users/96921/Documents/WorkSpace/Thesis/multi/CUDA-MPI-pthreads-FFT/build/pthreads/CMakeFiles/ALL_BUILD.dir
-C:/Users/96921/Documents/WorkSpace/Thesis/multi/CUDA-MPI-pthreads-FFT/build/MPI/CMakeFiles/p32.dir
-C:/Users/96921/Documents/WorkSpace/Thesis/multi/CUDA-MPI-pthreads-FFT/build/MPI/CMakeFiles/ALL_BUILD.dir

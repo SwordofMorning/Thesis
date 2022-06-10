@@ -1,8 +1,0 @@
-# CMake generation dependency list for this directory.
-C:/Program Files/CMake/share/cmake-3.23/Modules/FindMPI.cmake
-C:/Program Files/CMake/share/cmake-3.23/Modules/FindMPI/test_mpi.c
-C:/Program Files/CMake/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake
-C:/Program Files/CMake/share/cmake-3.23/Modules/FindPackageMessage.cmake
-C:/Program Files/CMake/share/cmake-3.23/Modules/FindPkgConfig.cmake
-C:/Users/96921/Documents/WorkSpace/Thesis/multi/CUDA-MPI-pthreads-FFT/MPI/CMakeLists.txt
-C:/Users/96921/Documents/WorkSpace/Thesis/multi/CUDA-MPI-pthreads-FFT/build/CMakeFiles/FindMPI/test_mpi.cpp
